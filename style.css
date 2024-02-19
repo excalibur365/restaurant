@@ -13,11 +13,12 @@ body{
 
 
 #logo-img{
-    background: url(https://as1.ftcdn.net/v2/jpg/02/31/49/16/1000_F_231491611_AGwrRQnhUekuWAnNY2wjV3PKpVMoRpeS.jpg) no-repeat;
+    background: url(images/restaurant-logo.png) no-repeat;
     width: 150px;
     height: 150px;
     margin: 10px 15px 10px 0;
 }
+
 
 .navbar-brand{
     padding-top: 25px;
@@ -35,7 +36,7 @@ body{
     line-height: .75;
 }
 
-.navbar-brand a:hover, .navbar-brand a:focus{
+.navbar-brand, a:hover, a:focus, a{
     text-decoration: none;
 }
 
